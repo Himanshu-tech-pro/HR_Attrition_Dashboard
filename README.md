@@ -121,3 +121,8 @@ Aspiring Data Analyst
 ---
 
 ⭐ If you found this project useful, consider giving it a **Star** on GitHub!
+
+
+
+
+<img width="1365" height="684" alt="image" src="https://github.com/user-attachments/assets/da8289c8-d42f-462a-b280-6b8c9844e3a4" />
